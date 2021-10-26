@@ -1,14 +1,14 @@
 {
-  "name": "repo-template",
+  "name": "dirtyLambda",
   "version": "1.0.0",
   "description": "Create new GitHub repositories based on templates",
-  "main": "repo-template.js",
+  "main": "dirtyLambda.js",
   "scripts": {
     "test": "server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bidnessforb/repo-template.git"
+    "url": "git+https://github.com/bryancross/dirtyLambda.git"
   },
   "keywords": [
     "repository",
@@ -18,9 +18,9 @@
   "author": "bryancross@github.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bidnessforb/repo-template/issues"
+    "url": "https://github.com/bryancross/dirtyLambda/issues"
   },
-  "homepage": "https://github.com/bidnessforb/repo-template#readme",
+  "homepage": "https://github.com/bryancross/dirtyLambda#readme",
   "dependencies": {
     "bluebird": "^3.4.7",
     "cli-spinner": "^0.2.5",
